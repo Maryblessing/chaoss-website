@@ -12,7 +12,7 @@ Duration: 9:00 am - 5:00 pm
 | Lightning Talk                    | 10 mins  | Untapped Power of Youth Movements in Shaping Open Communities          | Justice Oyakhilome                           | 10:15 am - 10:25 am    |
 | Keynote 1                         | 30 mins  | Metrics and the Business of Open Source                                | Brian Proffitt                               | 10:25 am - 10:55 am    |
 | Breakfast                         | 20 mins  | Tea, Network, Social shoutout                                          |                                              | 11:55 am - 12:15 pm    |
-| Panel Session                     | 40 mins  | Open, but Not Accessible: Redefining Inclusion for People with Disabilities in Open Source | Victoria Ottah, Brayan Kai                   | 12:15 pm - 12:55 pm    |
+| Panel Session                     | 40 mins  | Open, but Not Accessible: Redefining Inclusion for People with Disabilities in Open Source | Victoria Ottah, Yigakpoa L. Ikpae, Victoria Nduka, Oluwakemi Odusanya                   | 12:15 pm - 12:55 pm    |
 | Session                           | 20 mins  | Outsourcing AI Data Annotation and ML with Open Source Tools           | Blessing Akanle                              | 12:55 pm - 01:15 pm    |
 | Lightning Talk                    | 10 mins  | My Journey into Open Source and Why You Belong Here Too                | Eunice Eze                                   | 01:15 pm - 01:25 pm    |
 | Lightning Talk                    | 10 mins  | Yak Shaving in the Open: When Doing the Work Isn’t the Work            | Godson Njoku                                 | 01:25 pm - 01:35 pm    |
